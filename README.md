@@ -36,35 +36,34 @@
 
 The following errors may occur when running the script:
 
-- Error 1: Docker is not installed.
+- ***Error 1:*** Docker is not installed.
 
 - Solution: Install Docker as instructed in the Docker documentation.
 
-- Error 2: Docker Compose is not installed.
+- ***Error 2:*** Docker Compose is not installed.
 
 - Solution: Install Docker Compose as instructed in the Docker Compose documentation.
 
-- Error 3: The script cannot access the Dockerfile or docker-compose.yml file.
+- ***Error 3:*** The script cannot access the Dockerfile or docker-compose.yml file.
 
 - Solution: Make sure the Dockerfile and docker-compose.yml files are located in the script's current working directory.
 
-- Error 4: The script cannot create the user or folder for the environment.
+- ***Error 4:*** The script cannot create the user or folder for the environment.
 
 - Solution: Make sure the user running the script has superuser privileges.
 
- - Error 5: The script cannot create the volume for the environment.
+ - ***Error 5:*** The script cannot create the volume for the environment.
 
 - Solution: Make sure the user running the script has superuser privileges.
 
-- Error 6: The script cannot mount the volume in the environment.
+- ***Error 6:*** The script cannot mount the volume in the environment.
 
 - Solution: Make sure the user running the script has superuser privileges.
 
-- Error 7: The script cannot create the container for the environment.
+- ***Error 7:*** The script cannot create the container for the environment.
 
 - Solution: Check the Docker log for more information about the error.
-- 
-
+  
 # Note
 
 
