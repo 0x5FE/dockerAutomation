@@ -30,7 +30,8 @@
 `./dockerAutomation.sh`
 
 - Or Download the script to your server.
-- 
+
+
 # Possible errors and how to resolve them
 
 The following errors may occur when running the script:
@@ -62,6 +63,7 @@ The following errors may occur when running the script:
 - Error 7: The script cannot create the container for the environment.
 
 - Solution: Check the Docker log for more information about the error.
+- 
 
 # Note
 
