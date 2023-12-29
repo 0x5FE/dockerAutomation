@@ -20,7 +20,7 @@
 
 - Clone the repository:
 
-`git clone https://github.com/bard/dockerAutomation.git`
+`git clone https://github.com/0x5FE/dockerAutomation.git`
 
 `cd dockerAutomation`
 
