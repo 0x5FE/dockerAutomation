@@ -27,7 +27,7 @@
 
 `chmod +x dockerautomation.sh`
 
-`./dockerAutomation.sh`
+`./dockerautomation.sh`
 
 - Or Download the script to your server.
 
