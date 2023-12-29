@@ -10,7 +10,7 @@
 
 # Prerequisites
 
-    Docker: Version 20.10.8
+    Docker
     Docker Compose
 
 - Make sure the operating system is Ubuntu 20.04 before running the script.
